@@ -95,9 +95,9 @@ Choose a model (1 / 2): 1
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you want to add support for more free providers in the `g4f` pipeline, improve the prompt-engineering instructions, or add safety sandboxing for the `exec()` function, or anything, feel free to open a pull request.
+Contributions are welcome! If you want to add support for improving the AI pipeline, improve the prompt-engineering instructions, add safety sandboxing for the `exec()` function, or anything, feel free to open a pull request.
 
 ## 📄 License
 
-This project is licensed under the [MIT License]
+This project is licensed under the MIT License
 
